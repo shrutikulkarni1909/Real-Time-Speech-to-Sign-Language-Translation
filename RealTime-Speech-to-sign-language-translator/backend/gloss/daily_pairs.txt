@@ -1,0 +1,650 @@
+i ||| I
+you ||| YOU
+he ||| HE
+she ||| SHE
+we ||| WE
+they ||| THEY
+me ||| ME
+him ||| HIM
+her ||| HER
+us ||| US
+them ||| THEM
+myself ||| ME SELF
+yourself ||| YOU SELF
+himself ||| HIM SELF
+herself ||| HER SELF
+
+boy ||| BOY
+girl ||| GIRL
+man ||| MAN
+woman ||| WOMAN
+child ||| CHILD
+student ||| STUDENT
+teacher ||| TEACHER
+friend ||| FRIEND
+people ||| PEOPLE
+person ||| PERSON
+family ||| FAMILY
+mother ||| MOTHER
+father ||| FATHER
+parent ||| PARENT
+sister ||| SISTER
+brother ||| BROTHER
+son ||| SON
+daughter ||| DAUGHTER
+baby ||| BABY
+infant ||| BABY
+parent ||| PARENT
+doctor ||| DOCTOR
+engineer ||| ENGINEER
+nurse ||| NURSE
+cook ||| COOK
+worker ||| WORKER
+artist ||| ARTIST
+musician ||| MUSICIAN
+
+school ||| SCHOOL
+home ||| HOME
+house ||| HOUSE
+office ||| OFFICE
+hospital ||| HOSPITAL
+room ||| ROOM
+bedroom ||| BED ROOM
+bathroom ||| BATH ROOM
+kitchen ||| KITCHEN
+living ||| LIVING
+building ||| BUILDING
+city ||| CITY
+country ||| COUNTRY
+place ||| PLACE
+ground ||| GROUND
+floor ||| FLOOR
+table ||| TABLE
+chair ||| CHAIR
+bed ||| BED
+desk ||| DESK
+door ||| DOOR
+window ||| WINDOW
+wall ||| WALL
+roof ||| ROOF
+
+computer ||| COMPUTER
+phone ||| PHONE
+telephone ||| PHONE
+mobile ||| PHONE
+laptop ||| LAPTOP
+screen ||| SCREEN
+keyboard ||| KEYBOARD
+mouse ||| MOUSE
+printer ||| PRINTER
+camera ||| CAMERA
+television ||| TV
+radio ||| RADIO
+speaker ||| SPEAKER
+microphone ||| MICROPHONE
+headphones ||| HEAD PHONES
+
+book ||| BOOK
+pen ||| PEN
+pencil ||| PENCIL
+paper ||| PAPER
+document ||| DOCUMENT
+letter ||| LETTER
+envelope ||| ENVELOPE
+notebook ||| NOTE BOOK
+magazine ||| MAGAZINE
+newspaper ||| NEWS PAPER
+picture ||| PICTURE
+photo ||| PHOTO
+image ||| IMAGE
+drawing ||| DRAW
+
+car ||| CAR
+bus ||| BUS
+train ||| TRAIN
+vehicle ||| VEHICLE
+bike ||| BIKE
+bicycle ||| BICYCLE
+motorcycle ||| MOTORCYCLE
+airplane ||| AIRPLANE
+plane ||| PLANE
+airport ||| AIRPORT
+station ||| STATION
+street ||| STREET
+road ||| ROAD
+path ||| PATH
+highway ||| HIGHWAY
+bridge ||| BRIDGE
+
+food ||| FOOD
+water ||| WATER
+milk ||| MILK
+tea ||| TEA
+coffee ||| COFFEE
+juice ||| JUICE
+breakfast ||| BREAKFAST
+lunch ||| LUNCH
+dinner ||| DINNER
+meal ||| MEAL
+eat ||| EAT
+eating ||| EAT
+bread ||| BREAD
+rice ||| RICE
+meat ||| MEAT
+vegetable ||| VEGETABLE
+fruit ||| FRUIT
+apple ||| APPLE
+orange ||| ORANGE
+banana ||| BANANA
+chicken ||| CHICKEN
+fish ||| FISH
+egg ||| EGG
+cheese ||| CHEESE
+butter ||| BUTTER
+salt ||| SALT
+sugar ||| SUGAR
+pepper ||| PEPPER
+oil ||| OIL
+honey ||| HONEY
+chocolate ||| CHOCOLATE
+candy ||| CANDY
+cake ||| CAKE
+cookie ||| COOKIE
+pizza ||| PIZZA
+rice ||| RICE
+
+football ||| FOOTBALL
+cricket ||| CRICKET
+game ||| GAME
+play ||| PLAY
+playing ||| PLAY
+sport ||| SPORT
+match ||| MATCH
+win ||| WIN
+lose ||| LOSE
+score ||| SCORE
+movie ||| MOVIE
+film ||| FILM
+music ||| MUSIC
+song ||| SONG
+dance ||| DANCE
+dancing ||| DANCE
+chess ||| CHESS
+diwali ||| DIWALI
+holiday ||| HOLIDAY
+festival ||| FESTIVAL
+party ||| PARTY
+celebration ||| CELEBRATE
+
+go ||| GO
+going ||| GO
+went ||| GO
+gone ||| GO
+come ||| COME
+coming ||| COME
+came ||| COME
+arrived ||| COME
+
+play ||| PLAY
+playing ||| PLAY
+played ||| PLAY
+
+read ||| READ
+reading ||| READ
+reader ||| READ
+
+write ||| WRITE
+writing ||| WRITE
+writer ||| WRITE
+
+eat ||| EAT
+eating ||| EAT
+eaten ||| EAT
+
+drink ||| DRINK
+drinking ||| DRINK
+drank ||| DRINK
+
+sleep ||| SLEEP
+sleeping ||| SLEEP
+slept ||| SLEEP
+
+work ||| WORK
+working ||| WORK
+worked ||| WORK
+
+study ||| STUDY
+studying ||| STUDY
+studied ||| STUDY
+
+watch ||| WATCH
+watching ||| WATCH
+watched ||| WATCH
+
+sit ||| SIT
+sitting ||| SIT
+sat ||| SIT
+
+use ||| USE
+using ||| USE
+used ||| USE
+
+learn ||| LEARN
+learning ||| LEARN
+learned ||| LEARN
+
+teach ||| TEACH
+teaching ||| TEACH
+taught ||| TEACH
+
+like ||| LIKE
+love ||| LOVE
+want ||| WANT
+need ||| NEED
+help ||| HELP
+know ||| KNOW
+understand ||| UNDERSTAND
+think ||| THINK
+believe ||| BELIEVE
+agree ||| AGREE
+disagree ||| DISAGREE
+hope ||| HOPE
+wish ||| WISH
+dream ||| DREAM
+remember ||| REMEMBER
+forget ||| FORGET
+
+yes ||| YES
+no ||| NO
+maybe ||| MAYBE
+perhaps ||| MAYBE
+probably ||| PROBABLY
+certainly ||| CERTAINLY
+definitely ||| DEFINITELY
+definitely ||| DEFINITELY
+absolutely ||| ABSOLUTELY
+never ||| NEVER
+always ||| ALWAYS
+sometimes ||| SOMETIMES
+often ||| OFTEN
+rarely ||| RARELY
+
+happy ||| HAPPY
+sad ||| SAD
+angry ||| ANGRY
+excited ||| EXCITED
+tired ||| TIRED
+scared ||| SCARED
+fearful ||| SCARED
+brave ||| BRAVE
+silly ||| SILLY
+clever ||| CLEVER
+smart ||| SMART
+stupid ||| STUPID
+wise ||| WISE
+strong ||| STRONG
+weak ||| WEAK
+fast ||| FAST
+slow ||| SLOW
+big ||| BIG
+small ||| SMALL
+tall ||| TALL
+short ||| SHORT
+long ||| LONG
+good ||| GOOD
+bad ||| BAD
+better ||| BETTER
+worse ||| WORSE
+best ||| BEST
+worst ||| WORST
+beautiful ||| BEAUTIFUL
+ugly ||| UGLY
+pretty ||| PRETTY
+handsome ||| HANDSOME
+clean ||| CLEAN
+dirty ||| DIRTY
+new ||| NEW
+old ||| OLD
+young ||| YOUNG
+right ||| RIGHT
+wrong ||| WRONG
+true ||| TRUE
+false ||| FALSE
+real ||| REAL
+fake ||| FAKE
+hot ||| HOT
+cold ||| COLD
+warm ||| WARM
+cool ||| COOL
+wet ||| WET
+dry ||| DRY
+
+morning ||| MORNING
+afternoon ||| AFTERNOON
+evening ||| EVENING
+night ||| NIGHT
+day ||| DAY
+today ||| TODAY
+tonight ||| TONIGHT
+tomorrow ||| TOMORROW
+yesterday ||| YESTERDAY
+now ||| NOW
+then ||| THEN
+later ||| LATER
+soon ||| SOON
+monday ||| MONDAY
+tuesday ||| TUESDAY
+wednesday ||| WEDNESDAY
+thursday ||| THURSDAY
+friday ||| FRIDAY
+saturday ||| SATURDAY
+sunday ||| SUNDAY
+january ||| JANUARY
+february ||| FEBRUARY
+march ||| MARCH
+april ||| APRIL
+may ||| MAY
+june ||| JUNE
+july ||| JULY
+august ||| AUGUST
+september ||| SEPTEMBER
+october ||| OCTOBER
+november ||| NOVEMBER
+december ||| DECEMBER
+year ||| YEAR
+month ||| MONTH
+week ||| WEEK
+season ||| SEASON
+spring ||| SPRING
+summer ||| SUMMER
+fall ||| FALL
+winter ||| WINTER
+
+one ||| ONE
+two ||| TWO
+three ||| THREE
+four ||| FOUR
+five ||| FIVE
+six ||| SIX
+seven ||| SEVEN
+eight ||| EIGHT
+nine ||| NINE
+ten ||| TEN
+eleven ||| ELEVEN
+twelve ||| TWELVE
+thirteen ||| THIRTEEN
+twenty ||| TWENTY
+thirty ||| THIRTY
+forty ||| FORTY
+fifty ||| FIFTY
+hundred ||| HUNDRED
+thousand ||| THOUSAND
+million ||| MILLION
+first ||| FIRST
+second ||| SECOND
+third ||| THIRD
+fourth ||| FOURTH
+fifth ||| FIFTH
+
+here ||| HERE
+there ||| THERE
+where ||| WHERE
+when ||| WHEN
+why ||| WHY
+how ||| HOW
+what ||| WHAT
+
+please ||| PLEASE
+thank ||| THANK
+thank you ||| THANK YOU
+thanks ||| THANK YOU
+hello ||| HELLO
+hi ||| HI
+bye ||| BYE
+goodbye ||| GOODBYE
+sorry ||| SORRY
+excuse ||| EXCUSE
+welcome ||| WELCOME
+congratulations ||| CONGRATULATE
+cheers ||| CHEERS
+
+run ||| RUN
+running ||| RUN
+ran ||| RUN
+jump ||| JUMP
+jumping ||| JUMP
+jumped ||| JUMP
+walk ||| WALK
+walking ||| WALK
+walked ||| WALK
+stand ||| STAND
+standing ||| STAND
+stood ||| STAND
+lie ||| LIE
+lying ||| LIE
+lay ||| LIE
+dance ||| DANCE
+dancing ||| DANCE
+danced ||| DANCE
+talk ||| TALK
+talking ||| TALK
+talked ||| TALK
+listen ||| LISTEN
+listening ||| LISTEN
+listened ||| LISTEN
+hear ||| HEAR
+hearing ||| HEAR
+heard ||| HEAR
+see ||| SEE
+seeing ||| SEE
+saw ||| SAW
+look ||| LOOK
+looking ||| LOOK
+looked ||| LOOK
+touch ||| TOUCH
+touching ||| TOUCH
+touched ||| TOUCH
+feel ||| FEEL
+feeling ||| FEEL
+felt ||| FEEL
+smile ||| SMILE
+smiling ||| SMILE
+smiled ||| SMILE
+laugh ||| LAUGH
+laughing ||| LAUGH
+laughed ||| LAUGH
+cry ||| CRY
+crying ||| CRY
+cried ||| CRY
+shout ||| SHOUT
+shouting ||| SHOUT
+shouted ||| SHOUT
+whisper ||| WHISPER
+whispering ||| WHISPER
+whispered ||| WHISPER
+
+inside ||| INSIDE
+outside ||| OUTSIDE
+upstairs ||| UPSTAIRS
+downstairs ||| DOWNSTAIRS
+forward ||| FORWARD
+backward ||| BACKWARD
+left ||| LEFT
+right ||| RIGHT
+up ||| UP
+down ||| DOWN
+in ||| IN
+out ||| OUT
+on ||| ON
+off ||| OFF
+under ||| UNDER
+over ||| OVER
+between ||| BETWEEN
+behind ||| BEHIND
+front ||| FRONT
+above ||| ABOVE
+below ||| BELOW
+
+I am happy ||| I HAPPY
+I am sad ||| I SAD
+I love you ||| I LOVE YOU
+thank you ||| THANK YOU
+hello friend ||| HELLO FRIEND
+good morning ||| GOOD MORNING
+good afternoon ||| GOOD AFTERNOON
+good evening ||| GOOD EVENING
+good night ||| GOOD NIGHT
+how are you ||| HOW YOU
+what is your name ||| WHAT NAME YOU
+my name is ||| NAME ME
+nice to meet you ||| NICE MEET YOU
+see you later ||| SEE YOU LATER
+see you tomorrow ||| SEE YOU TOMORROW
+have a nice day ||| HAVE NICE DAY
+is everything okay ||| EVERYTHING OK
+what happened ||| WHAT HAPPEN
+can you help me ||| YOU HELP ME
+do you understand ||| YOU UNDERSTAND
+I dont understand ||| I NOT UNDERSTAND
+please repeat ||| PLEASE REPEAT
+speak slowly ||| SPEAK SLOW
+can you write it ||| YOU WRITE
+do you have time ||| YOU HAVE TIME
+what time is it ||| TIME WHAT
+happy birthday ||| HAPPY BIRTHDAY
+merry christmas ||| MERRY CHRISTMAS
+happy new year ||| HAPPY NEW YEAR
+
+good ||| GOOD
+bad ||| BAD
+big ||| BIG
+small ||| SMALL
+new ||| NEW
+old ||| OLD
+happy ||| HAPPY
+sad ||| SAD
+today ||| TODAY
+tomorrow ||| TOMORROW
+yesterday ||| YESTERDAY
+now ||| NOW
+morning ||| MORNING
+night ||| NIGHT
+
+is ||| <NULL>
+am ||| <NULL>
+are ||| <NULL>
+was ||| <NULL>
+were ||| <NULL>
+the ||| <NULL>
+a ||| <NULL>
+an ||| <NULL>
+to ||| <NULL>
+of ||| <NULL>
+and |||<NULL>
+
+go school ||| GO SCHOOL
+go home ||| GO HOME
+play football ||| PLAY FOOTBALL
+play cricket ||| PLAY CRICKET
+read book ||| READ BOOK
+drink water ||| DRINK WATER
+eat food ||| EAT FOOD
+use computer ||| USE COMPUTER
+watch movie ||| WATCH MOVIE
+listen music ||| LISTEN MUSIC
+study lesson ||| STUDY LESSON
+work project ||| WORK PROJECT
+
+i am a student ||| I STUDENT
+i am a teacher ||| I TEACHER
+i am working on a project ||| I WORK PROJECT
+i am using a computer ||| I USE COMPUTER
+the boy is playing football ||| BOY PLAY FOOTBALL
+the girl is reading a book ||| GIRL READ BOOK
+i am going to school ||| I GO SCHOOL
+i am watching a movie ||| I WATCH MOVIE
+
+
+i am going to school ||| I GO SCHOOL
+i am going home ||| I GO HOME
+she is reading a book ||| SHE READ BOOK
+he is eating food ||| HE EAT FOOD
+i am watching tv ||| I WATCH TV
+they are playing outside ||| THEY PLAY OUTSIDE
+we are studying together ||| WE STUDY TOGETHER
+i am working now ||| I WORK NOW
+he is sleeping ||| HE SLEEP
+she is cooking food ||| SHE COOK FOOD
+
+where are you going ||| YOU GO WHERE
+what is your name ||| YOUR NAME WHAT
+how are you ||| YOU FEEL HOW
+what are you doing ||| YOU DO WHAT
+where do you live ||| YOU LIVE WHERE
+when will you come ||| YOU COME WHEN
+why are you late ||| YOU LATE WHY
+who is he ||| HE WHO
+who are you ||| YOU WHO
+what time is it ||| TIME NOW WHAT
+
+i wake up early ||| I WAKE-UP EARLY
+i brush my teeth ||| I BRUSH TEETH
+i take a bath ||| I TAKE BATH
+i eat breakfast ||| I EAT BREAKFAST
+i go to office ||| I GO OFFICE
+i come back home ||| I COME HOME
+i have dinner ||| I EAT DINNER
+i go to sleep ||| I SLEEP
+
+i am happy ||| I HAPPY
+i am sad ||| I SAD
+i am tired ||| I TIRED
+i am angry ||| I ANGRY
+i feel sick ||| I FEEL SICK
+i am fine ||| I FINE
+i am scared ||| I SCARED
+i am excited ||| I EXCITED
+
+thank you ||| THANK YOU
+sorry ||| SORRY
+please help me ||| PLEASE HELP ME
+nice to meet you ||| NICE MEET YOU
+see you tomorrow ||| SEE YOU TOMORROW
+good morning ||| GOOD MORNING
+good night ||| GOOD NIGHT
+welcome ||| WELCOME
+
+can you help me ||| YOU HELP ME
+please sit down ||| PLEASE SIT
+please stand up ||| PLEASE STAND
+open the door ||| OPEN DOOR
+close the window ||| CLOSE WINDOW
+turn on the light ||| LIGHT ON
+turn off the fan ||| FAN OFF
+
+i am hungry ||| I HUNGRY
+i am thirsty ||| I THIRSTY
+i want water ||| I WANT WATER
+i want food ||| I WANT FOOD
+the food is good ||| FOOD GOOD
+i like tea ||| I LIKE TEA
+i like coffee ||| I LIKE COFFEE
+
+i am at home ||| I AT HOME
+i am at office ||| I AT OFFICE
+i am going to market ||| I GO MARKET
+i am coming back ||| I COME BACK
+bus is late ||| BUS LATE
+train is coming ||| TRAIN COME
+
+this is my father ||| THIS MY FATHER
+this is my mother ||| THIS MY MOTHER
+i have one brother ||| I HAVE ONE BROTHER
+i have one sister ||| I HAVE ONE SISTER
+i live with my family ||| I LIVE FAMILY
+
+i am learning sign language ||| I LEARN SIGN LANGUAGE
+i am a student ||| I STUDENT
+i am a teacher ||| I TEACHER
+i am working on a project ||| I WORK PROJECT
+i am using a computer ||| I USE COMPUTER

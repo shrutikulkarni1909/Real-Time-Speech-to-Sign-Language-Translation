@@ -1,0 +1,6 @@
+openai-whisper
+sounddevice
+numpy
+wavio
+PyQt5
+opencv-python

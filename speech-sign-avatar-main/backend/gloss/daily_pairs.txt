@@ -1,0 +1,233 @@
+i ||| I
+you ||| YOU
+he ||| HE
+she ||| SHE
+we ||| WE
+they ||| THEY
+
+boy ||| BOY
+girl ||| GIRL
+man ||| MAN
+woman ||| WOMAN
+child ||| CHILD
+student ||| STUDENT
+teacher ||| TEACHER
+friend ||| FRIEND
+people ||| PEOPLE
+family ||| FAMILY
+doctor ||| DOCTOR
+engineer ||| ENGINEER
+
+school ||| SCHOOL
+home ||| HOME
+office ||| OFFICE
+hospital ||| HOSPITAL
+room ||| ROOM
+computer ||| COMPUTER
+phone ||| PHONE
+book ||| BOOK
+pen ||| PEN
+car ||| CAR
+bus ||| BUS
+
+food ||| FOOD
+water ||| WATER
+milk ||| MILK
+tea ||| TEA
+coffee ||| COFFEE
+breakfast ||| BREAKFAST
+lunch ||| LUNCH
+dinner ||| DINNER
+
+football ||| FOOTBALL
+cricket ||| CRICKET
+game ||| GAME
+movie ||| MOVIE
+music ||| MUSIC
+chess ||| chess
+diwali ||| DIWALI
+
+go ||| GO
+going ||| GO
+went ||| GO
+
+come ||| COME
+coming ||| COME
+
+play ||| PLAY
+playing ||| PLAY
+played ||| PLAY
+
+read ||| READ
+reading ||| READ
+
+write ||| WRITE
+writing ||| WRITE
+
+eat ||| EAT
+eating ||| EAT
+
+drink ||| DRINK
+drinking ||| DRINK
+
+sleep ||| SLEEP
+sleeping ||| SLEEP
+
+work ||| WORK
+working ||| WORK
+
+study ||| STUDY
+studying ||| STUDY
+
+watch ||| WATCH
+watching ||| WATCH
+
+sit ||| SIT
+sitting ||| SIT
+
+use ||| USE
+using ||| USE
+
+learn ||| LEARN
+learning ||| LEARN
+
+teach ||| TEACH
+teaching ||| TEACH
+
+like ||| LIKE
+want ||| WANT
+help ||| HELP
+
+good ||| GOOD
+bad ||| BAD
+big ||| BIG
+small ||| SMALL
+new ||| NEW
+old ||| OLD
+happy ||| HAPPY
+sad ||| SAD
+today ||| TODAY
+tomorrow ||| TOMORROW
+yesterday ||| YESTERDAY
+now ||| NOW
+morning ||| MORNING
+night ||| NIGHT
+
+is ||| <NULL>
+am ||| <NULL>
+are ||| <NULL>
+was ||| <NULL>
+were ||| <NULL>
+the ||| <NULL>
+a ||| <NULL>
+an ||| <NULL>
+to ||| <NULL>
+of ||| <NULL>
+and |||<NULL>
+
+go school ||| GO SCHOOL
+go home ||| GO HOME
+play football ||| PLAY FOOTBALL
+play cricket ||| PLAY CRICKET
+read book ||| READ BOOK
+drink water ||| DRINK WATER
+eat food ||| EAT FOOD
+use computer ||| USE COMPUTER
+watch movie ||| WATCH MOVIE
+listen music ||| LISTEN MUSIC
+study lesson ||| STUDY LESSON
+work project ||| WORK PROJECT
+
+i am a student ||| I STUDENT
+i am a teacher ||| I TEACHER
+i am working on a project ||| I WORK PROJECT
+i am using a computer ||| I USE COMPUTER
+the boy is playing football ||| BOY PLAY FOOTBALL
+the girl is reading a book ||| GIRL READ BOOK
+i am going to school ||| I GO SCHOOL
+i am watching a movie ||| I WATCH MOVIE
+
+
+i am going to school ||| I GO SCHOOL
+i am going home ||| I GO HOME
+she is reading a book ||| SHE READ BOOK
+he is eating food ||| HE EAT FOOD
+i am watching tv ||| I WATCH TV
+they are playing outside ||| THEY PLAY OUTSIDE
+we are studying together ||| WE STUDY TOGETHER
+i am working now ||| I WORK NOW
+he is sleeping ||| HE SLEEP
+she is cooking food ||| SHE COOK FOOD
+
+where are you going ||| YOU GO WHERE
+what is your name ||| YOUR NAME WHAT
+how are you ||| YOU FEEL HOW
+what are you doing ||| YOU DO WHAT
+where do you live ||| YOU LIVE WHERE
+when will you come ||| YOU COME WHEN
+why are you late ||| YOU LATE WHY
+who is he ||| HE WHO
+who are you ||| YOU WHO
+what time is it ||| TIME NOW WHAT
+
+i wake up early ||| I WAKE-UP EARLY
+i brush my teeth ||| I BRUSH TEETH
+i take a bath ||| I TAKE BATH
+i eat breakfast ||| I EAT BREAKFAST
+i go to office ||| I GO OFFICE
+i come back home ||| I COME HOME
+i have dinner ||| I EAT DINNER
+i go to sleep ||| I SLEEP
+
+i am happy ||| I HAPPY
+i am sad ||| I SAD
+i am tired ||| I TIRED
+i am angry ||| I ANGRY
+i feel sick ||| I FEEL SICK
+i am fine ||| I FINE
+i am scared ||| I SCARED
+i am excited ||| I EXCITED
+
+thank you ||| THANK YOU
+sorry ||| SORRY
+please help me ||| PLEASE HELP ME
+nice to meet you ||| NICE MEET YOU
+see you tomorrow ||| SEE YOU TOMORROW
+good morning ||| GOOD MORNING
+good night ||| GOOD NIGHT
+welcome ||| WELCOME
+
+can you help me ||| YOU HELP ME
+please sit down ||| PLEASE SIT
+please stand up ||| PLEASE STAND
+open the door ||| OPEN DOOR
+close the window ||| CLOSE WINDOW
+turn on the light ||| LIGHT ON
+turn off the fan ||| FAN OFF
+
+i am hungry ||| I HUNGRY
+i am thirsty ||| I THIRSTY
+i want water ||| I WANT WATER
+i want food ||| I WANT FOOD
+the food is good ||| FOOD GOOD
+i like tea ||| I LIKE TEA
+i like coffee ||| I LIKE COFFEE
+
+i am at home ||| I AT HOME
+i am at office ||| I AT OFFICE
+i am going to market ||| I GO MARKET
+i am coming back ||| I COME BACK
+bus is late ||| BUS LATE
+train is coming ||| TRAIN COME
+
+this is my father ||| THIS MY FATHER
+this is my mother ||| THIS MY MOTHER
+i have one brother ||| I HAVE ONE BROTHER
+i have one sister ||| I HAVE ONE SISTER
+i live with my family ||| I LIVE FAMILY
+
+i am learning sign language ||| I LEARN SIGN LANGUAGE
+i am a student ||| I STUDENT
+i am a teacher ||| I TEACHER
+i am working on a project ||| I WORK PROJECT
+i am using a computer ||| I USE COMPUTER

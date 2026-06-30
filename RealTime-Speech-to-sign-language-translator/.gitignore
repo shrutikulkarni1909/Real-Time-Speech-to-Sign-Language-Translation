@@ -1,0 +1,44 @@
+# -------------------------
+# Python / environments
+# -------------------------
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+venv/
+venv311/
+env/
+
+# -------------------------
+# Build/model artifacts
+# -------------------------
+*.pt
+*.pth
+*.ckpt
+
+# -------------------------
+# OS/editor noise
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Large media / datasets
+# -------------------------
+*.mp4
+*.avi
+*.mov
+
+# Ignore heavy WLASL raw data and generated outputs by default.
+backend/datasets/wlasl/videos/
+backend/datasets/wlasl/keypoints/
+backend/datasets/wlasl/WLASL_v0.3.json
+backend/datasets/wlasl/auto_video_gloss_map.json
+
+# Keep runtime state local only.
+backend/datasets/wlasl/runtime/state.json
+
+# Optional ASLG CSV location used locally.
+backend/datasets/aslg_pc12/
+backend/datasets/wlasl/aslg_pc12/

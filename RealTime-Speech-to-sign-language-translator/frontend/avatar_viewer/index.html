@@ -1,0 +1,235 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>ASL Signing Avatar</title>
+
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@0.160.0/build/three.module.js"
+    }
+  }
+  </script>
+
+
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      background: radial-gradient(circle at top, #101827, #060a14 60%);
+      font-family: Arial, sans-serif;
+      color: #e9eef8;
+    }
+
+    .app-shell {
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      box-sizing: border-box;
+      padding: 16px;
+      gap: 12px;
+    }
+
+    .app-title {
+      text-align: center;
+      font-size: 38px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      color: #dbe7ff;
+      text-shadow: 0 2px 20px rgba(80, 130, 220, 0.35);
+    }
+
+    .main-grid {
+      flex: 1;
+      min-height: 0;
+      display: grid;
+      grid-template-columns: 360px 1fr;
+      gap: 14px;
+    }
+
+    .panel {
+      background: rgba(8, 13, 23, 0.82);
+      border: 1px solid rgba(120, 160, 240, 0.25);
+      border-radius: 12px;
+      box-shadow: 0 8px 22px rgba(0, 0, 0, 0.35);
+    }
+
+    .left-panel {
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      overflow: auto;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 8px;
+    }
+
+    .tab {
+      flex: 1;
+      border: 1px solid rgba(120, 160, 240, 0.35);
+      color: #cfdfff;
+      background: rgba(28, 40, 67, 0.55);
+      padding: 8px 10px;
+      border-radius: 8px;
+      text-align: center;
+      font-weight: 600;
+    }
+
+    .tab.active {
+      background: linear-gradient(180deg, #2b4378, #1b2f5b);
+    }
+
+    .card {
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(120, 160, 240, 0.22);
+      border-radius: 8px;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .label {
+      font-size: 13px;
+      color: #9bb4e8;
+      font-weight: 700;
+    }
+
+    .listening {
+      color: #ff6d6d;
+      font-weight: 700;
+      font-size: 14px;
+    }
+
+    input {
+      width: 100%;
+      box-sizing: border-box;
+      border: 1px solid rgba(120, 160, 240, 0.35);
+      background: rgba(4, 9, 18, 0.88);
+      color: #e9eef8;
+      border-radius: 8px;
+      padding: 10px;
+      font-size: 15px;
+      outline: none;
+    }
+
+    .btn-row {
+      display: flex;
+      gap: 8px;
+    }
+
+    button {
+      border: 0;
+      cursor: pointer;
+      border-radius: 8px;
+      padding: 10px 12px;
+      font-size: 15px;
+      font-weight: 700;
+      color: #fff;
+      background: linear-gradient(180deg, #28985b, #1b6d43);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.16);
+    }
+
+    .btn-secondary {
+      background: linear-gradient(180deg, #3f567f, #253754);
+    }
+
+    .btn-danger {
+      background: linear-gradient(180deg, #da4e4e, #a32929);
+    }
+
+    .btn-big {
+      width: 100%;
+    }
+
+    #status {
+      font-size: 13px;
+      color: #c9d8ff;
+      background: rgba(255,255,255,0.06);
+      border-radius: 8px;
+      padding: 8px 10px;
+    }
+
+    .avatar-panel {
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    #avatarStage {
+      flex: 1;
+      min-height: 0;
+      position: relative;
+      border-bottom: 1px solid rgba(120, 160, 240, 0.2);
+    }
+
+    .playbar {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      padding: 10px;
+      background: rgba(5, 9, 17, 0.9);
+    }
+
+    .playbar button {
+      min-width: 90px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="app-shell">
+    <div class="app-title">Real-Time Speech to Sign Language Converter</div>
+
+    <div class="main-grid">
+      <div class="panel left-panel">
+        <div class="tabs">
+          <div class="tab active">Speech to Sign</div>
+          <div class="tab">Text to Sign</div>
+        </div>
+
+        <div class="card">
+          <div id="listeningIndicator" class="listening">● Not listening</div>
+          <input id="speechText" placeholder="Speech transcript appears here..." />
+          <div class="btn-row">
+            <button id="micBtn" class="btn-big">Start Listening</button>
+            <button id="stopBtn" class="btn-danger">Stop</button>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="label">Input Text</div>
+          <input id="glossInput" value="HELLO" placeholder="Type sentence or gloss..." />
+          <button id="loadBtn">Convert</button>
+        </div>
+
+        <div class="card">
+          <div class="label">Gloss Output</div>
+          <input id="glossOutput" placeholder="Gloss output..." readonly />
+        </div>
+
+        <div id="status">Status: waiting for gloss...</div>
+      </div>
+
+      <div class="panel avatar-panel">
+        <div id="avatarStage"></div>
+        <div class="playbar">
+          <button id="pauseBtn" class="btn-secondary">Pause</button>
+          <button id="playBtn">Play</button>
+          <button id="restartBtn" class="btn-secondary">Restart</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Three.js / avatar logic -->
+  <script type="module" src="./app.js?v=11"></script>
+
+
+</body>
+</html>
